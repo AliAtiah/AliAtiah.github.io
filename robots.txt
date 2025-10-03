@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aliatiah.github.io//sitemap.xml
+Sitemap: https://aliatiah.github.io/sitemap.xml
